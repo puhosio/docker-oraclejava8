@@ -1,1 +1,1 @@
-# Minimil Oracle Java 8 docker image
+# Minimal Oracle Java 8 docker image
